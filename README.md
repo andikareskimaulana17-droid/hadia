@@ -1,5 +1,4 @@
-# fictional-rotary-phone
-hadia untuk pacar
+
 <!DOCTYPE html>
 <html lang="id">
 <head>
